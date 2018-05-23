@@ -6,8 +6,6 @@ For Windows 64, using anaconda
 > pip install tensorflow 
 > pip install keras
 
-conda install -c conda-forge jupyter_contrib_nbextensions
-
 <!---
 Tensorflow
     Proposed in tensorflow docu, but this leads to a lot of packages being installed twice, assuming due to --ignore-installed
