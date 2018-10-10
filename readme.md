@@ -1,10 +1,12 @@
 # Install 
 For Windows 64, using anaconda
 
-> conda create -n uni numpy scipy matplotlib seaborn scikit-learn pip pandas h5py
-> activate uni
-> pip install tensorflow 
-> pip install keras
+```
+conda create -n uni numpy scipy matplotlib seaborn scikit-learn pip pandas h5py
+activate uni
+pip install tensorflow 
+pip install keras
+```
 
 <!---
 Tensorflow
